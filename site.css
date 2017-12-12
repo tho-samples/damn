@@ -1,0 +1,28 @@
+#hero-img {
+    background-image: url('images/cover.jpg');
+    background-size: cover;
+}
+
+.avatar {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.navbar-burger {
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-burger span {
+    color: white;
+}
+
+.table {
+    background-color: transparent;
+    color: white;
+}
+
+.table thead th {
+    color: white;
+}
